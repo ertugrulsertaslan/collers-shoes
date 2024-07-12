@@ -4,11 +4,12 @@ This project is an e-commerce application aimed at simplifying shoe shopping. Us
 
 ## Features ✨
 
-- **Product Catalog: 📋 List shoe models in different categories.
-- **Search and Filtering: 🔍 Search products by name or filter by category.
-- **Cart Management: 🛒 Add products to cart, view cart contents, and update cart items.
-- **User Sessions: 👤 Register or log in with existing accounts.
-- **Payment Processing: 💳 Complete purchases securely using payment methods.
+- **Product Catalog 📋**: List shoe models in different categories.
+- **Search and Filtering 🔍**: Search products by name or filter by category.
+- **Cart Management 🛒**: Add products to cart, view cart contents, and update cart items.
+- **User Sessions 👤**: Register or log in with existing accounts.
+- **Payment Processing 💳**: Complete purchases securely using payment methods.
+
 
 ## Technologies Used 💻
 
